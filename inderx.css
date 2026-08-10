@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+.profile {
+    position: absolute;
+    top: 4%;
+    left: 40%;
+
+}
+
+.profile img {
+    width: 280px;
+    height: auto;
+
+}
+
+.name {
+    position: absolute;
+    top: 32%;
+    left: 45%;
+}
+
+
+.data {
+    position: absolute;
+    left: 42%;
+    top: 37%;
+}
+
+.boba {
+    text-decoration: none;
+    color: #20377b;
+    border: 2px solid #5f5c63;
+    -moz-border-radius: 34;
+    -ms-border-radius: 34;
+    -o-border-radius: 34;
+    position: absolute;
+    top: 80%;
+    left: 43%;
+    padding: 4px 130px;
+}
+
+
+.container {
+    color: #20377b;
+    position: absolute;
+    top: 51%;
+    left: 36%;
+    padding: 4px 130px;
+}
+
+
+.pop {
+    margin-top: 19px;
+    color: #211cc0;
+}
+
+.submit {
+    margin-bottom: 20px;
+    color: #20377b;
+    border: 2px solid #5f5c63;
+    -moz-border-radius: 34;
+    -ms-border-radius: 34;
+    -o-border-radius: 34;
+    position: absolute;
+    top: 147%;
+    left: 23%;
+    padding: 6px 120px;
+}
